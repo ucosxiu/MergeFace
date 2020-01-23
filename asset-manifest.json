@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MergeFace/static/css/main.5c63a84f.chunk.css",
+    "main.js": "/MergeFace/static/js/main.ee704de5.chunk.js",
+    "main.js.map": "/MergeFace/static/js/main.ee704de5.chunk.js.map",
+    "runtime-main.js": "/MergeFace/static/js/runtime-main.28c0806d.js",
+    "runtime-main.js.map": "/MergeFace/static/js/runtime-main.28c0806d.js.map",
+    "static/js/2.bcc2ae80.chunk.js": "/MergeFace/static/js/2.bcc2ae80.chunk.js",
+    "static/js/2.bcc2ae80.chunk.js.map": "/MergeFace/static/js/2.bcc2ae80.chunk.js.map",
+    "index.html": "/MergeFace/index.html",
+    "precache-manifest.c01cd0bcd051c542f3e40d2803fb2ed5.js": "/MergeFace/precache-manifest.c01cd0bcd051c542f3e40d2803fb2ed5.js",
+    "service-worker.js": "/MergeFace/service-worker.js",
+    "static/css/main.5c63a84f.chunk.css.map": "/MergeFace/static/css/main.5c63a84f.chunk.css.map",
+    "static/js/2.bcc2ae80.chunk.js.LICENSE": "/MergeFace/static/js/2.bcc2ae80.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28c0806d.js",
+    "static/js/2.bcc2ae80.chunk.js",
+    "static/css/main.5c63a84f.chunk.css",
+    "static/js/main.ee704de5.chunk.js"
+  ]
+}
